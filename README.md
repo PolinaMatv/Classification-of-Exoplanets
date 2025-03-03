@@ -4,4 +4,4 @@ In this project I use [NASA exoplanet archive](https://exoplanetarchive.ipac.cal
 ## Tools
 Methods: K-means Clusterization, Gaussian Mixture, PCA
 
-Libraries: pandas, matplotlib, sklearn, numpy
+Libraries: pandas, matplotlib, scikit-learn, numpy
